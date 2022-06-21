@@ -1,0 +1,9 @@
+# Pycharm and VS code
+.idea
+.vscode
+
+# Cluster scripts
+jobs
+
+# Outputs
+runs

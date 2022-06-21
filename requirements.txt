@@ -1,0 +1,9 @@
+numpy
+gym[box2d]
+pybullet
+torch
+stable_baselines3==1.5
+tensorboard
+pandas
+matplotlib
+pytest
